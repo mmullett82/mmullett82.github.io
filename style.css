@@ -304,6 +304,10 @@ fieldset {
   width: 50%;
 }
 
+legend {
+  color: rgb(129, 194, 129);
+}
+
 /* Buttons */
 
 button {
