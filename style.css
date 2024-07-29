@@ -185,11 +185,13 @@ h2 {
 
 .project-card h3 {
   font-size: 25px;
+  color: rgb(129, 194, 129);
   margin-left: 30px;
 }
 
 .project-card li {
   font-size: 20px;
+  color: white;
   margin-left: 30px;
 }
 
