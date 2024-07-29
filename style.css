@@ -185,6 +185,7 @@ h2 {
 
 h3 a {
   color: rgb(129, 194, 129);
+  text-decoration: none;
 }
 
 .project-card h3 {
