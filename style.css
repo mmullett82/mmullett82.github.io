@@ -186,12 +186,12 @@ h2 {
 .project-examples {
   text-align: justify;
   font-size: 28px;
-  text-align: center;
+  text-align: left;
   float: left;
   color: rgb(129, 194, 129);
   margin: 30px;
   margin-left: 0px;
-  margin-top: 140px;
+  margin-top: 200px;
   margin-bottom: 0px;
 }
 
