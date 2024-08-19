@@ -191,7 +191,7 @@ h2 {
   color: rgb(129, 194, 129);
   margin: 30px;
   margin-left: -30px;
-  margin-top: 58px;
+  margin-top: 55px;
   margin-bottom: 0px;
 }
 
@@ -324,7 +324,7 @@ fieldset {
   justify-content: center;  
   padding: 25px; 
   margin-left: 50px; 
-  margin-right: 60px;   
+  margin-right: 75px;   
   border: thin solid white;
   width: 50%;
 }
